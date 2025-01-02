@@ -53,7 +53,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%) rotate(45deg);
     color: white;
-    font-size: 4vmin;
+    font-size: 3.5vmin; /* Slightly reduced size to ensure text fits */
     font-weight: bold;
     text-align: center;
 }
